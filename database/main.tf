@@ -1,3 +1,3 @@
 output "hello" {
-  value = "hello-1"
+  value = path.module
 }
